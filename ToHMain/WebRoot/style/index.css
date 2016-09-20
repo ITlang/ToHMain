@@ -1,0 +1,49 @@
+@CHARSET "UTF-8";
+
+html {
+    min-width:300px;
+    min-height:400px;
+}
+
+body {
+    margin:0px;
+    padding-left:1%;
+    padding-right:1%;
+    background-color:white;
+}
+
+img{
+	width:100%;
+}
+#line{
+	border:1px solid #F0F0F0;
+	width:98%;
+	height:2px;
+}
+
+#add{
+	background-color:#008000; 
+	width:100%;
+    bottom:0;
+    left:0;
+	float:right;
+    text-align:center;
+    position: fixed;
+}
+#add span{
+	font-size:2em;
+	border:1px solid #FFFFFF;
+	border-radius:80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
